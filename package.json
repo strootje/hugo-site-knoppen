@@ -1,0 +1,9 @@
+{
+	"devDependencies": {
+		"@fullhuman/postcss-purgecss": "^5.0.0",
+		"fork-awesome": "^1.2.0",
+		"postcss-cli": "^10.1.0",
+		"prettier-plugin-go-template": "^0.0.13",
+		"ts-node": "^10.9.1"
+	}
+}

@@ -1,0 +1,24 @@
+{{- define "content/main" -}}
+	<main class="stack u-grow u-middle u-center">
+		<h1>{{- .Title -}}</h1>
+
+		{{- with .Content -}}
+			<div>{{- . -}}</div>
+		{{- end -}}
+
+		{{- with .Pages -}}
+			<ul class="list level u-grow">
+				{{- range . -}}
+					<li class="stack">
+						<a class="panel stack u-grow u-middle u-center" href="{{- .RelPermalink -}}">
+							<span style="text-align: center">{{- .Title | default .File -}}</span>
+							{{- with resources.GetMatch (printf "plants/%s*" (.File | path.BaseName)) -}}
+								<img class="bgimg" src="{{- .Permalink -}}" />
+							{{- end -}}
+						</a>
+					</li>
+				{{- end -}}
+			</ul>
+		{{- end -}}
+	</main>
+{{- end -}}

@@ -1,0 +1,23 @@
+{{- define "content/main" -}}
+	<main class="stack u-grow u-middle u-center">
+		<h1>{{- .Title -}}</h1>
+
+		{{- with .Content -}}
+			<div>{{- . -}}</div>
+		{{- end -}}
+
+		{{- with .Site.Menus.home -}}
+			<ul class="stack">
+				{{- range . -}}
+					<li>
+						<a class="panel stack u-grow u-middle u-center" href="{{- .URL -}}">
+							<span
+								>{{- .Name -}}
+							</span>
+						</a>
+					</li>
+				{{- end -}}
+			</ul>
+		{{- end -}}
+	</main>
+{{- end -}}

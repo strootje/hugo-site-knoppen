@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>{{- default .Site.Title .Title -}}</title>
+		{{- with resources.Get "styles/bundle.css" -}}
+			<link rel="stylesheet" href="{{- .RelPermalink -}}" />
+		{{- end -}}
+	</head>
+	<body class="stack">
+		{{- block "content/main" . -}}
+		{{- end -}}
+	</body>
+</html>

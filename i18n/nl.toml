@@ -1,0 +1,102 @@
+table.start.1a.text = "Boom met witte gladde stam. ...Berk."
+table.start.1a.extra = "De verschillende soorten en kweekvormen worden hier niet van elkaar onderscheiden."
+table.start.1b.text = "Plant anders."
+
+table.start.2a.text = "Boom met grote geelachtige, groene en bruine vlekken op de stam. ...Plantaan"
+table.start.2a.extra = "De twee soorten en de tussenvormen worden niet van elkaar onderscheiden."
+table.start.2b.text = "Plant anders."
+
+table.start.3a.text = "Takken en twijgen* vormen \"visgraten\" met naar het uiteinde toe steeds langere twijgen. ...Iep"
+table.start.3a.extra = "De soorten, tussenvormen en kweekvormen worden hier niet van elkaar onderscheiden."
+table.start.3b.text = "Takken ten twijgen anders geplaatst."
+
+table.start.4a.text = "Elzeproppen aanwezig."
+table.start.4b.text = "Geen elzeproppen aanwezig."
+
+table.start.5a.text = "Knoppen* spits en kort. ...Harbladige els."
+table.start.5b.text = "Knoppen stomp en langwerpig. ...Zwarte els of Grouwe els."
+
+table.start.6a.text = "Twijgen als ... ...Japanse notenboom."
+table.start.6b.text = "Twijgen anders dan ..."
+
+table.start.7a.text = "Twijgen als ... Vaak zijn \"vruchten\" als ... aanwezig. ...Larix."
+table.start.7b.text = "Twijgen anders dan ..."
+
+table.start.8a.text = "Plant bloeit... Tabel winterbloeiers."
+table.start.8b.text = "Plant bloeit niet."
+
+table.start.9a.text = "Plant heeft doorns of stekels... Tabel doorn -en stekelplanten."
+table.start.9b.text = "Plant heeft geen doorns of stekels."
+
+table.start.10a.text = "Klim -of slingerplant; Gebruikt andere bomen of struiken als steun. Tabel klim -en slingerplanten."
+table.start.10b.text = "Geen klim- of slingerplant."
+
+table.start.11a.text = "Bladlittekens* tegenoverstaand. Tabel tegenoverstaande bladlittekens."
+table.start.11b.text = "Bladlittekens verspreid. Tabel verspreide bladlittekens"
+
+table.winter.1a.text = "Bloemen als ... Bloemen geurloos. ...Hazelaar."
+table.winter.1b.text = "Bloemen anders."
+
+table.winter.2a.text = "Bloemen als ... Bloemen geurloos. ...Wilg."
+table.winter.2a.extra = "De vele soorten, tussenvormen en kweekvormen worden hier niet van elkaar onderscheiden."
+table.winter.2b.text = "Bloemen anders."
+
+table.winter.3a.text = "Bloemen roze of wit. Bloemen als ... Bloemen met sterke aangename geur. ...Peperboompje."
+table.winter.3a.extra = "Alle delen van de plant smaken vel peperachtig, maar de plant is giftig en kan huidirritatie veroorzaken!"
+table.winter.3b.text = "Bloemen geel."
+
+table.winter.4a.text = "Bloemen klein, stervormig en in groepen ... Bloemen geurloos. ...Gele kornoelje."
+table.winter.4b.text = "Bloemen anders."
+
+table.winter.5a.text = "De gele bloembladen zijn smal, lintvormig en meestal gekronkeld. Bloemen met sterk aangename geur. ...Toverhazelaar."
+table.winter.5b.text = "Bloemen als ... Bloemen geurloos. ...Winterjasmijn."
+
+table.thorns.1a.text = "In de splitsing van twee gelijkwaardige twijgen* of takken zit een door. ...Wegedoorn."
+table.thorns.1b.text = "Doorns of stekels op andere plaatsen."
+
+table.thorns.2a.text = "Steeds een doorn aan weerszijde van een bladlitteken*. Knoppen* zijn niet zichtbaar. ...Witte acacia."
+table.thorns.2a.extra = "De knoppen zitten ieder onder een bladlitteken, in de twijg."
+table.thorns.2b.text = "Doorns of stekels op andere plaatsen."
+
+table.thorns.3a.text = "Boven iedere doorn (of drietal  doorns) een knop."
+table.thorns.3b.text = "Doorns of stekels op andere plaatsen."
+
+table.thorns.4a.text = "Bij volledig verwijderen van een zijknop* ontstaat een felgeel plekje. ...Zuurbes."
+table.thorns.4b.text = "Bij volledig verwijderen van een zijknop ontstaat een lichtgroen plekje. ...Kruisbes."
+
+table.thorns.5a.text = "Scherpe uitsteeksels verspreid over tak en twijg; niet alleen dicht bij de knoppen."
+table.thorns.5a.extra = "Deze scherpe uitsteeksels heten bij die soorten niet doorns maar stekels."
+table.thorns.5b.text = "Scherpe uitsteeksels op andere plaatsen."
+
+table.thorns.6a.text = "Bladlittedekns onder de zijknop* op een verhoginkje."
+table.thorns.6a.extra = "Soms blijft het steeltje van het blad onder de knop zitten."
+table.thorns.6b.text = "Bladlittekens onder iedere zijknop zonder verhoginkje. Bladlittekens meestal als een lijntje. ...Roos."
+table.thorns.6b.extra = "De vele soorten en kweekvormen worden hier niet van elkaar onderscheiden"
+
+table.thorns.7a.text = "Twijgen staan (ook zonder hulp van bomen) rechtop. Stekels voornamelijk dicht bij de grond aanwezig. Stekels niet erg stevig en niet erg hinderlijk scherp. ...Framboos."
+table.thorns.7b.text = "Twijgen hangen sterk over, of liggen op de grond, of worden door bomen gesteund. (De plant lijkt dan op een slingerplant.) Stekels overal op de twijgen. Stekels stevig en hinderlijk scherp. ...Braam."
+
+table.thorns.8a.text = "Alle takken en twijgen eindigen in een doorn. Sommige struiken hebben oranje bessen langs de takken. De bessen worden in de loop van de winter bleker. ...Duindoorn."
+table.thorns.8b.text = "Korte zijtakjes eindigen nooit in een doorn of slechts een deel van de korte zijtakjes eindigt in een doorn."
+
+table.thorns.9a.text = "Knoppen zichtbaar."
+table.thorns.9b.text = "Geen knoppen zichtbaar. Struik met sterk overhangende takken. ...Gewone boksdoorn."
+
+table.thorns.10a.text = "Twijgen (zeker de uiteinden) dicht behaard. ...Mispel."
+table.thorns.10b.text = "Twijgen niet zo."
+
+table.thorns.11a.text = "Een deel van de knoppen* is lichtbruin, kogelrond en ongeveer 1mm lang. De knopjes zitten vaak met drie (twee bolle knopjes met daartussen een driehoekige) of meer bij elkaar. De bolle knopjes zitten vooral aan de korte zijtakjes met zeer veel bij elkaar. Eindknoppen* nooit groter dan 2mm, meestal veel kleiner. Er kunnen een deel van de winter blauw-zwarte vruchten, als kleine pruimen verspreid aan de takken zitten. ...Sleedoorn."
+table.thorns.11b.text = "Knoppen anders."
+
+table.thorns.12a.text = "Knoppen nauwelijks groter dan 3mm. Eindknop meestal 3mm lang. Donkerbruine knopschubben*. Soms is er een rose-rood deel van een of meer knopschubben te zien. Soms donder-rode bessen nog tot ver in de winter aanwezig. ...Meidoorn."
+table.thorns.12b.text = "Knoppen 4 mm of langer."
+
+table.thorns.13a.text = "Knoppen onbehaard. ...Peer."
+table.thorns.13b.text = "Knoppen duidelijk met her en der witte beharing. ...Appel."
+
+table.climbers.1a.text = "Plant met ranken."
+table.climbers.1b.text = "Plant zonder ranken, slingerend. Een gedeelte van de knoppen* loopt in de winter al enigszins uit, er kunnen zelfs blaadjes aanwezig zijn. ...Wilde kamperfoelie."
+
+table.climbers.2a.text = "Twijgen* kantig of met richels in de lengterichting. Zijknoppen twee aan twee tegenover elkaar. Bladstelen die vaak gekronkeld zijn dienen als ranken. Ze blijven lang onder de zijknoppen zitten. (Daar zijn dan geen bladlittekens aanwezig.) Vaak zijn de nog kenmerkende vruchtjes aanwezig. ...Bosrank."
+table.climbers.2b.text = "Twijgen rond, zijknoppen* niet twee aan twee tegenover elkaar. ...Wildle wingerd."
+table.climbers.2b.extra = "Er zijn twee soorten die met wilde wingerd worden aangeduid. De ene heeft hechtschijfjes aan zijn ranken, waarmee hij zich aan muren kan hechten. De ander heeft geen hechtschijfjes aan zijn ranken en slingert zijn ranken rond takken van bomen en struiken."

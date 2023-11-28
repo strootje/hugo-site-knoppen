@@ -1,0 +1,24 @@
+{{- define "content/main" -}}
+	<main class="stack u-grow">
+		<h1>{{- default .Title (printf "%s" .File) -}}</h1>
+
+		<div class="stack u-grow">
+			{{- $base := .File | path.BaseName -}}
+			{{- range resources.Match (printf "plants/%s*.*" $base) -}}
+				<img class="panel" src="{{- .RelPermalink -}}" />
+			{{- end -}}
+		</div>
+
+		{{- with .Params.Resources -}}
+			<ul class="list level u-grow">
+				{{- range . -}}
+					{{- with resources.Get .src -}}
+						<li class="panel">
+							<img src="{{- .Permalink -}}" />
+						</li>
+					{{- end -}}
+				{{- end -}}
+			</ul>
+		{{- end -}}
+	</main>
+{{- end -}}
