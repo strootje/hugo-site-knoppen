@@ -1,68 +1,68 @@
-table.start.1a.text = "Boom met witte gladde stam. ...Berk."
+table.start.1a.text = "Boom met witte gladde stam."
 table.start.1a.extra = "De verschillende soorten en kweekvormen worden hier niet van elkaar onderscheiden."
 table.start.1b.text = "Plant anders."
 
-table.start.2a.text = "Boom met grote geelachtige, groene en bruine vlekken op de stam. ...Plantaan"
+table.start.2a.text = "Boom met grote geelachtige, groene en bruine vlekken op de stam."
 table.start.2a.extra = "De twee soorten en de tussenvormen worden niet van elkaar onderscheiden."
 table.start.2b.text = "Plant anders."
 
-table.start.3a.text = "Takken en twijgen* vormen \"visgraten\" met naar het uiteinde toe steeds langere twijgen. ...Iep"
+table.start.3a.text = "Takken en twijgen* vormen \"visgraten\" met naar het uiteinde toe steeds langere twijgen."
 table.start.3a.extra = "De soorten, tussenvormen en kweekvormen worden hier niet van elkaar onderscheiden."
 table.start.3b.text = "Takken ten twijgen anders geplaatst."
 
 table.start.4a.text = "Elzeproppen aanwezig."
 table.start.4b.text = "Geen elzeproppen aanwezig."
 
-table.start.5a.text = "Knoppen* spits en kort. ...Harbladige els."
-table.start.5b.text = "Knoppen stomp en langwerpig. ...Zwarte els of Grouwe els."
+table.start.5a.text = "Knoppen* spits en kort."
+table.start.5b.text = "Knoppen stomp en langwerpig."
 
-table.start.6a.text = "Twijgen als ... ...Japanse notenboom."
+table.start.6a.text = "Twijgen als ..."
 table.start.6b.text = "Twijgen anders dan ..."
 
-table.start.7a.text = "Twijgen als ... Vaak zijn \"vruchten\" als ... aanwezig. ...Larix."
+table.start.7a.text = "Twijgen als ... Vaak zijn \"vruchten\" als ... aanwezig."
 table.start.7b.text = "Twijgen anders dan ..."
 
-table.start.8a.text = "Plant bloeit... Tabel winterbloeiers."
+table.start.8a.text = "Plant bloeit..."
 table.start.8b.text = "Plant bloeit niet."
 
-table.start.9a.text = "Plant heeft doorns of stekels... Tabel doorn -en stekelplanten."
+table.start.9a.text = "Plant heeft doorns of stekels..."
 table.start.9b.text = "Plant heeft geen doorns of stekels."
 
-table.start.10a.text = "Klim -of slingerplant; Gebruikt andere bomen of struiken als steun. Tabel klim -en slingerplanten."
+table.start.10a.text = "Klim -of slingerplant; Gebruikt andere bomen of struiken als steun."
 table.start.10b.text = "Geen klim- of slingerplant."
 
-table.start.11a.text = "Bladlittekens* tegenoverstaand. Tabel tegenoverstaande bladlittekens."
-table.start.11b.text = "Bladlittekens verspreid. Tabel verspreide bladlittekens"
+table.start.11a.text = "Bladlittekens* tegenoverstaand."
+table.start.11b.text = "Bladlittekens verspreid."
 
-table.winter.1a.text = "Bloemen als ... Bloemen geurloos. ...Hazelaar."
+table.winter.1a.text = "Bloemen als ... Bloemen geurloos."
 table.winter.1b.text = "Bloemen anders."
 
-table.winter.2a.text = "Bloemen als ... Bloemen geurloos. ...Wilg."
+table.winter.2a.text = "Bloemen als ... Bloemen geurloos."
 table.winter.2a.extra = "De vele soorten, tussenvormen en kweekvormen worden hier niet van elkaar onderscheiden."
 table.winter.2b.text = "Bloemen anders."
 
-table.winter.3a.text = "Bloemen roze of wit. Bloemen als ... Bloemen met sterke aangename geur. ...Peperboompje."
+table.winter.3a.text = "Bloemen roze of wit. Bloemen als ... Bloemen met sterke aangename geur."
 table.winter.3a.extra = "Alle delen van de plant smaken vel peperachtig, maar de plant is giftig en kan huidirritatie veroorzaken!"
 table.winter.3b.text = "Bloemen geel."
 
-table.winter.4a.text = "Bloemen klein, stervormig en in groepen ... Bloemen geurloos. ...Gele kornoelje."
+table.winter.4a.text = "Bloemen klein, stervormig en in groepen ... Bloemen geurloos."
 table.winter.4b.text = "Bloemen anders."
 
-table.winter.5a.text = "De gele bloembladen zijn smal, lintvormig en meestal gekronkeld. Bloemen met sterk aangename geur. ...Toverhazelaar."
-table.winter.5b.text = "Bloemen als ... Bloemen geurloos. ...Winterjasmijn."
+table.winter.5a.text = "De gele bloembladen zijn smal, lintvormig en meestal gekronkeld. Bloemen met sterk aangename geur."
+table.winter.5b.text = "Bloemen als ... Bloemen geurloos."
 
-table.thorns.1a.text = "In de splitsing van twee gelijkwaardige twijgen* of takken zit een door. ...Wegedoorn."
+table.thorns.1a.text = "In de splitsing van twee gelijkwaardige twijgen* of takken zit een door."
 table.thorns.1b.text = "Doorns of stekels op andere plaatsen."
 
-table.thorns.2a.text = "Steeds een doorn aan weerszijde van een bladlitteken*. Knoppen* zijn niet zichtbaar. ...Witte acacia."
+table.thorns.2a.text = "Steeds een doorn aan weerszijde van een bladlitteken*. Knoppen* zijn niet zichtbaar."
 table.thorns.2a.extra = "De knoppen zitten ieder onder een bladlitteken, in de twijg."
 table.thorns.2b.text = "Doorns of stekels op andere plaatsen."
 
 table.thorns.3a.text = "Boven iedere doorn (of drietal  doorns) een knop."
 table.thorns.3b.text = "Doorns of stekels op andere plaatsen."
 
-table.thorns.4a.text = "Bij volledig verwijderen van een zijknop* ontstaat een felgeel plekje. ...Zuurbes."
-table.thorns.4b.text = "Bij volledig verwijderen van een zijknop ontstaat een lichtgroen plekje. ...Kruisbes."
+table.thorns.4a.text = "Bij volledig verwijderen van een zijknop* ontstaat een felgeel plekje."
+table.thorns.4b.text = "Bij volledig verwijderen van een zijknop ontstaat een lichtgroen plekje."
 
 table.thorns.5a.text = "Scherpe uitsteeksels verspreid over tak en twijg; niet alleen dicht bij de knoppen."
 table.thorns.5a.extra = "Deze scherpe uitsteeksels heten bij die soorten niet doorns maar stekels."
@@ -70,33 +70,110 @@ table.thorns.5b.text = "Scherpe uitsteeksels op andere plaatsen."
 
 table.thorns.6a.text = "Bladlittedekns onder de zijknop* op een verhoginkje."
 table.thorns.6a.extra = "Soms blijft het steeltje van het blad onder de knop zitten."
-table.thorns.6b.text = "Bladlittekens onder iedere zijknop zonder verhoginkje. Bladlittekens meestal als een lijntje. ...Roos."
+table.thorns.6b.text = "Bladlittekens onder iedere zijknop zonder verhoginkje. Bladlittekens meestal als een lijntje."
 table.thorns.6b.extra = "De vele soorten en kweekvormen worden hier niet van elkaar onderscheiden"
 
-table.thorns.7a.text = "Twijgen staan (ook zonder hulp van bomen) rechtop. Stekels voornamelijk dicht bij de grond aanwezig. Stekels niet erg stevig en niet erg hinderlijk scherp. ...Framboos."
-table.thorns.7b.text = "Twijgen hangen sterk over, of liggen op de grond, of worden door bomen gesteund. (De plant lijkt dan op een slingerplant.) Stekels overal op de twijgen. Stekels stevig en hinderlijk scherp. ...Braam."
+table.thorns.7a.text = "Twijgen staan (ook zonder hulp van bomen) rechtop. Stekels voornamelijk dicht bij de grond aanwezig. Stekels niet erg stevig en niet erg hinderlijk scherp."
+table.thorns.7b.text = "Twijgen hangen sterk over, of liggen op de grond, of worden door bomen gesteund. (De plant lijkt dan op een slingerplant.) Stekels overal op de twijgen. Stekels stevig en hinderlijk scherp."
 
-table.thorns.8a.text = "Alle takken en twijgen eindigen in een doorn. Sommige struiken hebben oranje bessen langs de takken. De bessen worden in de loop van de winter bleker. ...Duindoorn."
+table.thorns.8a.text = "Alle takken en twijgen eindigen in een doorn. Sommige struiken hebben oranje bessen langs de takken. De bessen worden in de loop van de winter bleker."
 table.thorns.8b.text = "Korte zijtakjes eindigen nooit in een doorn of slechts een deel van de korte zijtakjes eindigt in een doorn."
 
 table.thorns.9a.text = "Knoppen zichtbaar."
-table.thorns.9b.text = "Geen knoppen zichtbaar. Struik met sterk overhangende takken. ...Gewone boksdoorn."
+table.thorns.9b.text = "Geen knoppen zichtbaar. Struik met sterk overhangende takken."
 
-table.thorns.10a.text = "Twijgen (zeker de uiteinden) dicht behaard. ...Mispel."
+table.thorns.10a.text = "Twijgen (zeker de uiteinden) dicht behaard."
 table.thorns.10b.text = "Twijgen niet zo."
 
-table.thorns.11a.text = "Een deel van de knoppen* is lichtbruin, kogelrond en ongeveer 1mm lang. De knopjes zitten vaak met drie (twee bolle knopjes met daartussen een driehoekige) of meer bij elkaar. De bolle knopjes zitten vooral aan de korte zijtakjes met zeer veel bij elkaar. Eindknoppen* nooit groter dan 2mm, meestal veel kleiner. Er kunnen een deel van de winter blauw-zwarte vruchten, als kleine pruimen verspreid aan de takken zitten. ...Sleedoorn."
+table.thorns.11a.text = "Een deel van de knoppen* is lichtbruin, kogelrond en ongeveer 1mm lang. De knopjes zitten vaak met drie (twee bolle knopjes met daartussen een driehoekige) of meer bij elkaar. De bolle knopjes zitten vooral aan de korte zijtakjes met zeer veel bij elkaar. Eindknoppen* nooit groter dan 2mm, meestal veel kleiner. Er kunnen een deel van de winter blauw-zwarte vruchten, als kleine pruimen verspreid aan de takken zitten."
 table.thorns.11b.text = "Knoppen anders."
 
-table.thorns.12a.text = "Knoppen nauwelijks groter dan 3mm. Eindknop meestal 3mm lang. Donkerbruine knopschubben*. Soms is er een rose-rood deel van een of meer knopschubben te zien. Soms donder-rode bessen nog tot ver in de winter aanwezig. ...Meidoorn."
+table.thorns.12a.text = "Knoppen nauwelijks groter dan 3mm. Eindknop meestal 3mm lang. Donkerbruine knopschubben*. Soms is er een rose-rood deel van een of meer knopschubben te zien. Soms donder-rode bessen nog tot ver in de winter aanwezig."
 table.thorns.12b.text = "Knoppen 4 mm of langer."
 
-table.thorns.13a.text = "Knoppen onbehaard. ...Peer."
-table.thorns.13b.text = "Knoppen duidelijk met her en der witte beharing. ...Appel."
+table.thorns.13a.text = "Knoppen onbehaard."
+table.thorns.13b.text = "Knoppen duidelijk met her en der witte beharing."
 
 table.climbers.1a.text = "Plant met ranken."
-table.climbers.1b.text = "Plant zonder ranken, slingerend. Een gedeelte van de knoppen* loopt in de winter al enigszins uit, er kunnen zelfs blaadjes aanwezig zijn. ...Wilde kamperfoelie."
+table.climbers.1b.text = "Plant zonder ranken, slingerend. Een gedeelte van de knoppen* loopt in de winter al enigszins uit, er kunnen zelfs blaadjes aanwezig zijn."
 
-table.climbers.2a.text = "Twijgen* kantig of met richels in de lengterichting. Zijknoppen twee aan twee tegenover elkaar. Bladstelen die vaak gekronkeld zijn dienen als ranken. Ze blijven lang onder de zijknoppen zitten. (Daar zijn dan geen bladlittekens aanwezig.) Vaak zijn de nog kenmerkende vruchtjes aanwezig. ...Bosrank."
-table.climbers.2b.text = "Twijgen rond, zijknoppen* niet twee aan twee tegenover elkaar. ...Wildle wingerd."
+table.climbers.2a.text = "Twijgen* kantig of met richels in de lengterichting. Zijknoppen twee aan twee tegenover elkaar. Bladstelen die vaak gekronkeld zijn dienen als ranken. Ze blijven lang onder de zijknoppen zitten. (Daar zijn dan geen bladlittekens aanwezig.) Vaak zijn de nog kenmerkende vruchtjes aanwezig."
+table.climbers.2b.text = "Twijgen rond, zijknoppen* niet twee aan twee tegenover elkaar."
 table.climbers.2b.extra = "Er zijn twee soorten die met wilde wingerd worden aangeduid. De ene heeft hechtschijfjes aan zijn ranken, waarmee hij zich aan muren kan hechten. De ander heeft geen hechtschijfjes aan zijn ranken en slingert zijn ranken rond takken van bomen en struiken."
+
+table.opposites.1a.text = "Geen knoppen* zichtbaar. (De knoppen zitten ieder onder een bladlitteken*, in de twijg*.)"
+table.opposites.1b.text = "Knoppen zichtbaar."
+
+table.opposites.2a.text = "Aan sommige twijgen zijn haast alle zijknoppen* tegenoverstaand of scheef tegenoverstaand. Aan andere twijgen van dezelfde plant zijn niet of nauwelijks tegenoverstaande of scheef tegenoverstaande zijknoppen te vinden. Meestal gele twijgen met rode knoppen. De buitenkant van de knop bestaat uit 'e'en knopschub die als een hoes over de inhoud van de knop heen zit."
+table.opposites.2b.text = "Alle zijknoppen (of bladlittekens) zijn tegenoverstaand of scheef tegenoverstaand."
+
+table.opposites.3a.text = "Aan het uiteinde van veel twijgen zitten de resten van bloemen in een groep bij elkaar en iedere knop bestaat de hele winter uit een groep blaadjes."
+table.opposites.3b.text = "Niet zo."
+
+table.opposites.4a.text = "Behaarde bloemknoppen aan het einde van sommige twijgen. Ook de andere knoppen behaard."
+table.opposites.4b.text = "Niet zulke bloemknoppen."
+
+table.opposites.5a.text = "Takken groeien over de grond."
+table.opposites.5b.text = "Takken groeien niet over de grond."
+
+table.opposites.6a.text = "Kogelronde zijknoppen van ongeveer 5mm op een steeltje, en ongesteelde slanke knoppen."
+table.opposites.6b.text = "Zijknoppen anders."
+
+table.opposites.7a.text = "Twijgen* geel of bruingeel."
+table.opposites.7b.text = "Twijgen* niet geel en niet bruingeel."
+
+table.opposites.8a.text = "Zwarte vlekjes verspreid over iedere twijg. Ook knoppen* geheel of gedeeltelijk zwart."
+table.opposites.8b.text = "Bobbeltjes als lichte vlekjes verspreid over iedere twijg. Er zijn vaak twijgen aanwezig met meerdere zijknoppen boven 'e'en bladlitteken*."
+
+table.opposites.9a.text = "Twijgen rondom rood."
+table.opposites.9a.extra = "Het witte in de naam slaat op de kleur van de bessen."
+table.opposites.9b.text = "Twijgen niet rondom rood."
+
+table.opposites.10a.text = "Twijgen aan zonkant rood en aan shadowkant groen."
+table.opposites.10b.text = "Twijgen anders."
+
+table.opposites.11a.text = "Knopschubben* goed afzonderlijk te onderscheiden."
+table.opposites.11b.text = "Knopschubben moeilijk afzonderlijk te onderscheiden. Knopschubben nooit groen met donkere eindrand."
+
+table.opposites.12a.text = "Knopschubben met donkere eindrand."
+table.opposites.12b.text = "Knopschubben zonder donkere eindrand."
+
+table.opposites.13a.text = "Twijgen rondom groen."
+table.opposites.13b.text = "Twijgen van andere kleur."
+
+table.opposites.14a.text = "Slanke zijknoppen wijzen sterk van de twijg af. Vaak meerdere knoppen boven elkaar. (De plkant is een struik.)"
+table.opposites.14b.text = "Zijknoppen wijzen minder sterk van de twijg af of liggen tegen de twijg aan."
+
+table.opposites.15a.text = "'E'en knopschub* die als een hoes over de inhoud van de knop heen zit. Glanzende knoppen, meestal rood en met een speciale vorm. Vaak twee eindknoppen*"
+table.opposites.15b.text = "Knoppen anders."
+
+table.opposites.16a.text = "Knoppen bruin met witte top."
+table.opposites.16b.text = "Knoppen anders."
+
+table.opposites.17a.text = "Knoppen dofzwart. Er kunnen 's winters groepen propeller achtige vruchtjes in de boom hangen."
+table.opposites.17b.text = "Knoppen anders."
+
+table.opposites.18a.text = "Eindknop groot en donkerbruin of bruin met een groene waas. Knoppen door een kleverige laagje bedekt. Grote opvallende bladlittekens*. Soms eindknop boller of slanker. Soms is een deel van de zijknoppen zeer klein of afwezig."
+table.opposites.18b.text = "Knoppen en bladlittekens anders."
+
+table.opposites.19a.text = "Twijgen* hol. VVaak heel dunne twijgen. De struik houdt een deel van de winter zijn witte bessen die in de loop van de winter bruin worden."
+table.opposites.19b.text = "Twijgen niet hol."
+
+table.opposites.20a.text = "Doorsnede twijg met groot zacht (niet houtachtig) middendeel."
+table.opposites.20b.text = "Doorsnede twijg met veel kleiner zacht middendeel of zonder zacht middendeel."
+
+table.opposites.21a.text = "Zacht middendeel wit. In de loop van de winter loopt een deel van de knoppen* uit."
+table.opposites.21b.text = "Zacht middendeel bruin. Vaak twee soorten knoppen aanwezig: bolle knoppen en slanke knoppen. (Meestal 2 slanke of twee bolle knoppen tegenover elkaar.) Knoppen ongeveer 1cm lang."
+
+table.opposites.22a.text = "Twijgen minder dan 1mm dik of nauwelijks dikker dan 1mm. (Meet enkele cm vanaf het uiteinde van de twijg, en niet dicht bij een knop*.) (Lange recht naar boven groeiende twijgen zijn vaak dikker.)"
+table.opposites.22b.text = "Twijgen duidelijk meer dan 1mm dik."
+
+table.opposites.23a.text = "Twijgen grijsgroen met lichtere vlekjes en bobbeltjes verspreid over de twijg. Vaak zijn in de winter nog groepen zwarte bessen aan de strsuik aanwezig."
+table.opposites.23a.extra = "De verschillende bladverliezende soorten en kweekvormen worden hier niet van elkaar onderscheiden."
+table.opposites.23b.text = "Twijgen bruin, zonder lichte vlekjes verspreid over de twijg. Vaak heel dunne twijgen. De struik houdt een deel van de winter zijn roze bessen."
+
+table.opposites.24a.text = "Knopschubben* groen met bruinzwarte eindrand. Soms twee eindknoppen per twijg."
+table.opposites.24b.text = "Knopschubben anders."
+
+table.opposites.25a.text = "Bladlittekens van twee tegenover elkaar staande zijknoppen raken elkaar of zijn door een lijntje met elkaar verbonden."
+table.opposites.25b.text = "Bladlittekens van twee (schuin) tegenoverstaande zijknoppen* raken elkaar nooit en zijn nooit door een lijntje met elkaar verbonden."

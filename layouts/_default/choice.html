@@ -1,17 +1,17 @@
 {{- define "content/main" -}}
 	<main class="stack u-grow u-middle u-center">
-		<h1>{{- default .Title (printf "%s" .File) -}}</h1>
+		<h1>{{- default (printf "%s" .File) .Title -}}</h1>
 
 		<div class="list stack u-grow u-grow-all">
 			{{- $table := .Page.File | path.Dir | path.Base -}}
 			{{- $step := .Page.File | path.BaseName -}}
 
 			{{- with .Page.Params.found -}}
-				{{- $found := $.GetPage . -}}
-				<a href="{{- $found.RelPermalink -}}" class="panel">
+				{{- $page := $.GetPage . -}}
+				<a href="{{- $page.RelPermalink -}}" class="panel">
 					{{- T (printf "table.%s.%sa.text" $table $step) . -}}
 
-					{{- with $found.Params.Resources -}}
+					{{- with $page.Params.Resources -}}
 						<ul class="level">
 							{{- range . -}}
 								{{- with resources.Get .src -}}
@@ -27,11 +27,11 @@
 			{{- end -}}
 
 			{{- with .Page.Params.next -}}
-				{{- $next := $.GetPage . -}}
-				<a href="{{- $next.RelPermalink -}}" class="panel">
+				{{- $page := $.GetPage . -}}
+				<a href="{{- $page.RelPermalink -}}" class="panel">
 					{{- T (printf "table.%s.%sb.text" $table $step) . -}}
 
-					{{- with $next.Params.Resources -}}
+					{{- with $page.Params.Resources -}}
 						<ul class="level">
 							{{- range . -}}
 								{{- with resources.Get .src -}}

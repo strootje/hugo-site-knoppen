@@ -1,6 +1,6 @@
 {{- define "content/main" -}}
 	<main class="stack u-grow">
-		<h1>{{- default .Title (printf "%s" .File) -}}</h1>
+		<h1>{{- default (printf "%s" .File) .Title -}}</h1>
 
 		<div class="stack u-grow">
 			{{- $base := .File | path.BaseName -}}
