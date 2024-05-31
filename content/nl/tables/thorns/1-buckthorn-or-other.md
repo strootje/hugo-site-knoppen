@@ -1,7 +1,7 @@
 +++
 layout = "choice"
 found = "plants/common-buckthorn"
-next = "tables/thorns/2"
+next = "tables/thorns/2-locust-or-other"
 
 [[resources]]
 src = "figures/figure-10.4.png"

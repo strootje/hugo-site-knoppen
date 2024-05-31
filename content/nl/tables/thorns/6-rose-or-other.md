@@ -1,6 +1,6 @@
 +++
 layout = "choice"
-found = "tables/thorns/7"
+found = "tables/thorns/7-raspberry-or-blackberry"
 next = "plants/rose"
 
 [[resources]]

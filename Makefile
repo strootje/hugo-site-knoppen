@@ -2,7 +2,7 @@ SITE=knoppen.strootje.com
 -include .env.local
 
 serve:
-	@hugo serve --bind=0.0.0.0
+	@hugo serve
 
 deploy:
 	@hugo --environment=production --minify -d ./public/${SITE}
